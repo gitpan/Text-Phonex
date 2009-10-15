@@ -8,7 +8,7 @@ BEGIN {
 	our ($VERSION, @ISA, @EXPORT, @EXPORT_OK );
 	@ISA=qw(Exporter);
 	@EXPORT=qw( phonex );
-	$VERSION='0.03';
+	$VERSION='0.04';
 	sub VERSION {
 		(my $me, my $askedver)=@_;
 		$VERSION=~s/(.*)_\d+/$1/;

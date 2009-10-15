@@ -4,4 +4,5 @@ lib/Text/Phonex.pm
 Makefile.PL
 t/1-go.t
 Copying
+README
 META.yml                                 Module meta-data (added by MakeMaker)
